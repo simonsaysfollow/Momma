@@ -1,0 +1,15 @@
+.body-title {
+    margin-top: 80px;
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 25pt;
+
+}
+
+.image-placeholder {
+    width: 180pt;
+    height: 200pt;
+    margin-bottom: 30pt;
+    box-shadow: 10px 10px 5px grey;
+}
+

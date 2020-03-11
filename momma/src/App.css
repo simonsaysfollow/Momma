@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 } */
+
+
+
+.about-us {
+  background-color: palevioletred;
+  margin-top: 50pt;
+  background-image: url("./Images/tile.png");
+}

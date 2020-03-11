@@ -1,0 +1,40 @@
+.left-image {
+    /* background: red; */
+    width: 100%;
+    float: right;
+}
+
+.right-description {
+    /* background: blueviolet; */
+    width: 100%;
+    float: left;
+}
+
+.owner-image { 
+    width: 350pt;
+    height: 350pt;
+    background-color: aqua;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    border-radius: 25px;
+}
+
+.company-email {
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
+.owner-text {
+    text-align: center;
+    margin-top: 50pt;
+    width: 100%;
+}
+
+.owner-text > p {
+    font-size: 14pt;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}

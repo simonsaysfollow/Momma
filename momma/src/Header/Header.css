@@ -5,6 +5,24 @@
 
 .links-header {
     width: 100%;
-   float: right;
+    float: right;
     background: red;
+}
+.bg-color {
+    background: orange;
+    background-image: url("../Images/tile.png");
+    color: red;
+}
+
+.order-link {
+    font-size: 15pt;
+    font: bold;
+}
+
+.order-btn {
+    /* width: 80pt; */
+}
+
+.outline-success {
+    color: white;
 }
